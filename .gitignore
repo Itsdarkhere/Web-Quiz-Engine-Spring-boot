@@ -1,0 +1,8 @@
+course-info.yaml
+course-remote-info.yaml
+gradle/
+gradlew
+gradlew.bat
+.gradle/
+.idea/
+Problems/
